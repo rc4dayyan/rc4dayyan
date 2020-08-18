@@ -3,6 +3,10 @@ I'm a good problem solver, experienced with all stages of the development cycle 
 
 - 🔭 I’m currently working on hotel booking engine product
 - 📫 You can reach me via email
+
+<a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc4dayyan&theme=dark&hide=html,dockerfile" alt="francislagares" />
+</a>
 <!--
 **rc4dayyan/rc4dayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
