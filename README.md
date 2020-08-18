@@ -11,10 +11,7 @@ I'm a good problem solver, experienced with all stages of the development cycle 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc4dayyan&theme=dark&hide=html,dockerfile" alt="francislagares" />
 </a>
 
-<div align="center">
-<p><strong>VISITS<Strong></p>
-<img src="https://profile-counter.glitch.me/rc4dayyan/count.svg" alt="hit counter" align="center">
-</div>
+![rc4dayyan's github stats](https://github-readme-stats.vercel.app/api?username=rc4dayyan&show_icons=true&include_all_commits=true&theme=merko)
   
 <!--
 **rc4dayyan/rc4dayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
