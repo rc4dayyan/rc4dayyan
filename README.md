@@ -7,6 +7,12 @@ I'm a good problem solver, experienced with all stages of the development cycle 
 - ❤️ Loves Computers, Programming, Football
 - 📫 You can reach me via email
 
+### You may need
+- calendar picker: https://rc4dayyan.github.io/form-calendar-picker
+- react portfolio template: https://rc4dayyan.github.io/react-portfolio
+- simple currency converter: https://rc4dayyan.github.io/simple-currency-converter
+
+
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc4dayyan&theme=dark&hide=html,dockerfile" alt="francislagares" />
 </a>
