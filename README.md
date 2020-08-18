@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a good problem solver, experienced with all stages of the development cycle for dynamic web projects. Enthusiastic about new technology and happy to learn new technology
 
 <!--
 **rc4dayyan/rc4dayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
