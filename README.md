@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm a good problem solver, experienced with all stages of the development cycle for dynamic web projects. Enthusiastic about new technology and happy to learn new technology
 
-- 🔭 I’m currently working on hotel booking engine product
-- 🌱 I’m currently learning: PHP and Javascript
 - 👯 I’m looking to collaborate on anything
 - ❤️ Loves Computers, Programming, Football
 - 📫 You can reach me via email
@@ -10,7 +8,6 @@ I'm a good problem solver, experienced with all stages of the development cycle 
 ### You may need
 - calendar picker: https://rc4dayyan.github.io/form-calendar-picker
 - react portfolio template: https://rc4dayyan.github.io/react-portfolio
-- simple currency converter: https://rc4dayyan.github.io/simple-currency-converter
 
 
 <a>
